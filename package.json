@@ -1,6 +1,6 @@
 {
   "name": "custom-cleave",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format for input element",
   "main": "custom-cleave.js",
   "scripts": {
